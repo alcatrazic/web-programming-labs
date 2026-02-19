@@ -1,0 +1,17 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Лабораторна робота №2 — TypeScript практика",
+  "main": "dist/task-1.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/task-1.js",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
